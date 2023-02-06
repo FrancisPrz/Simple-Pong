@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CreditsTable_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 24f69cd1117aec54980c4b7963a174c0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 165789360128
+    m_Localized: "Merci d'avoir jou\xE9 \xE0 ma version de Pong, c'est le premier
+      projet que je r\xE9alise seul et j'esp\xE8re qu'il vous plaira. N'h\xE9sitez
+      donc pas \xE0 laisser vos commentaires.\r\n\r\n\r\nVous pouvez cliquer sur
+      les ic\xF4nes de r\xE9seau et de page si vous voulez voir mes autres travaux
+      ;)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 280516157440
+    m_Localized: Retour au menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130624315392
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

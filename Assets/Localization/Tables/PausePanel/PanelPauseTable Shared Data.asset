@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: PanelPauseTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: PanelPauseTable
+  m_TableCollectionNameGuidString: 377320cfca3a0df469b19a6d1674ff3b
+  m_Entries:
+  - m_Id: 8268079104
+    m_Key: GamePauseText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140833251328
+    m_Key: ContinueText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196705574912
+    m_Key: MainMenuText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351626387456
+    m_Key: ExitText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4001505584554442806
+  references:
+    version: 2
+    RefIds:
+    - rid: 4001505584554442806
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1675665477577

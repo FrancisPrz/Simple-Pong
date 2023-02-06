@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 610783ea8e4da1c418b21949e8f0a12d
+  m_SerializeEntries:
+  - m_GUID: e165b145a25683640adb66c0b5dc226d
+    m_Address: MainMenuTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56560470e52594e4b907f4805822c1b5
+    m_Address: CreditsTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9e8593695abed14f8af4f0d5c7e9ed2
+    m_Address: PanelPauseTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c51e3dafc5be844185280b25f5f92c2
+    m_Address: ExitTable_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 62637021ad8be504590908dc7f225cfc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f962fe3e21fdcbf4c9a39201407147d8, type: 2}
+    - {fileID: 11400000, guid: f25b1ac64768e9e4dbf599f967ae61b2, type: 2}

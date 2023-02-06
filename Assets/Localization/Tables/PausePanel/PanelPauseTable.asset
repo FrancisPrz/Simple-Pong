@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: PanelPauseTable
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 377320cfca3a0df469b19a6d1674ff3b, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: b9e8593695abed14f8af4f0d5c7e9ed2, type: 2}
+  - {fileID: 11400000, guid: b2a2162d8d8eb134e9369e8d20fe373b, type: 2}
+  - {fileID: 11400000, guid: 617fe04932057364e81d4413f5a7a85c, type: 2}
+  - {fileID: 11400000, guid: 48fabf75904449d49b3f84f80073f88b, type: 2}
+  - {fileID: 11400000, guid: 2248d4bd697c2694082b86233078ee5d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []
