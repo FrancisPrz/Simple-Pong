@@ -12,10 +12,12 @@ public class GameManager : MonoBehaviour
     [SerializeField] Transform player2Transform;
     [SerializeField] Transform ballTransform;
 
-    int player1_Score = 0;
-    int player2_Score = 0;
+    private int player1_Score = 0;
+    private int player2_Score = 0;
 
     private static GameManager instance;
+
+    GameData gameData;
 
     public static GameManager Instance
     {
@@ -35,18 +37,30 @@ public class GameManager : MonoBehaviour
 
         player1_ScoreText.text = "0";
         player2_ScoreText.text = "0";
+
+        gameData = SaveGameData.Load_GameData();
     }
 
     public void Player1Score()
     {
         player1_Score++;
         player1_ScoreText.text = player1_Score.ToString();
+        if (gameData.mode5points == true)
+        {
+            if (player1_Score == 5)
+                Victory_5points.Instance.Victory5pointsGame();
+        }
     }
 
     public void Player2Score()
     {
         player2_Score++;
         player2_ScoreText.text = player2_Score.ToString();
+        if (gameData.mode5points == true)
+        {
+            if (player2_Score == 5)
+                Victory_5points.Instance.Victory5pointsGame();
+        }
     }
 
     public void Restar()

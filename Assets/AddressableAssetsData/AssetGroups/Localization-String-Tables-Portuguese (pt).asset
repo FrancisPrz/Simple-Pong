@@ -45,6 +45,20 @@ MonoBehaviour:
     - Locale-pt
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2adf12184c38b0c49bbec7d0469b35e9
+    m_Address: SelecGameModeTable_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8476ac4178783c14d87024283274dcf4
+    m_Address: WinTable_pt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 62637021ad8be504590908dc7f225cfc, type: 2}
   m_SchemaSet:

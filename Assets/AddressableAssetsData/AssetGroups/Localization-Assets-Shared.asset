@@ -37,6 +37,17 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0d2b8e7ef9cf574a81308c5dd9f4301
+    m_Address: Assets/Localization/Tables/SelectGameMode/SelecGameModeTable Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91b9b59fecd9c0248b4bbe3b0283c9ba
+    m_Address: Assets/Localization/Tables/WinTable/WinTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 62637021ad8be504590908dc7f225cfc, type: 2}
   m_SchemaSet:

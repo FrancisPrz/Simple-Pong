@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: WinTable
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 91b9b59fecd9c0248b4bbe3b0283c9ba, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: dc1990e54f2621245a79483fa31a7da6, type: 2}
+  - {fileID: 11400000, guid: 25e01310ee7bef74bb6fe22e6cc09cd1, type: 2}
+  - {fileID: 11400000, guid: bb000845ee13e4a47a7e04d0133550db, type: 2}
+  - {fileID: 11400000, guid: 8476ac4178783c14d87024283274dcf4, type: 2}
+  - {fileID: 11400000, guid: d70c375e285bdbc4b9953f218b314f60, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -8,10 +8,13 @@ showPackageIndexes = false
 showStatusBar = false
 scopes = {
 	"picker_window_position_offset.45F317DD" = "-2;89;320;550"
-	"picker_search_text.45F317DD" = "st: yes "
-	"last_search.45F317DD" = "st: yes "
+	"picker_search_text.45F317DD" = "st: YO"
+	"last_search.45F317DD" = "st: YO"
 	"OpenInspectorPreview.45F317DD" = "0"
 	"currentGroup.45F317DD" = "all"
+	"last_search.E8DA1663" = ""
+	"OpenInspectorPreview.E8DA1663" = "0"
+	"currentGroup.E8DA1663" = "all"
 }
 providers = {
 	adb = {
@@ -68,6 +71,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"st: p"
 	"st:"
 ]
 searchItemFavorites = [

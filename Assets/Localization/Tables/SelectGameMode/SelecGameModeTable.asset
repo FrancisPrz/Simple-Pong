@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: SelecGameModeTable
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: b0d2b8e7ef9cf574a81308c5dd9f4301, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: a140171c2ede8e84b8fc691aaec29393, type: 2}
+  - {fileID: 11400000, guid: 32d340e59c12a944bae616847e249eb7, type: 2}
+  - {fileID: 11400000, guid: 2adf12184c38b0c49bbec7d0469b35e9, type: 2}
+  - {fileID: 11400000, guid: 225ad120b96baf64ba7e45f38cde6075, type: 2}
+  - {fileID: 11400000, guid: d4a51fbfb39d36d469da8ccbc5a01391, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []
